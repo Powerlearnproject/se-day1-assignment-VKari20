@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is the systematic application of engineering principles leads to the design and development as well as testing and maintenance of software systems. This is important since it improves efficiency in technology related industries.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
@@ -15,6 +16,7 @@ Identify and describe at least three key milestones in the evolution of software
 3. Cloud Computing and DevOps technologies have improved software development efficiency along with scalability through the streamlining of linked development and operations processes.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 1. Planning Phase The first phase involves collecting user needs followed by establishing clear project boundaries.
 
 2. Design Phase- Software designers will establish both architectural and detailed designs for the software.
@@ -28,10 +30,12 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6. Maintenance Phase -After software delivery maintenance personnel update and resolve detected problems in the product.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 The waterfall approach completes one phase before starting the next phase in a sequential order. An example of a scenario would be it is suitable for projectsthhat have the requirements that show no need for changes and are clearly defined.
 Agile	Iterative approach with continuous feedback and adaptation.	Such projects benefit from this development methodology when requirements transition during production and when faced with high levels of uncertainty.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software Developers design software components and apply programming to build them after designing them while also testing their functionality.
 The Quality Assurance Engineer implements tests to validate that software applications comply with set quality standards.
 Project Manager: Oversees project planning, execution, and delivery.
@@ -43,6 +47,7 @@ Visual Studio and Eclipse alongside other IDEs serve as complete solutions for d
 Software Version Control systems like Git and SVN help developers track code modifications through time by enabling collaborative work and version history management.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 The main concern stems from dealing with complicated systems combined with strict time deadlines.The stategy to overcome this would be to ensure that the project will deploy modular design structures to maximize task prioritization efficiency.
 
 Ensuring Security.The security strategy combines secure coding approaches with routine security audit executions.
